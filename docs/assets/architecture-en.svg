@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 390" role="img" aria-labelledby="title">
+  <title id="title">ElectromagnetismDrill data flow</title>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path fill="#28649a" d="M0 0L10 5L0 10Z"/></marker></defs>
+  <rect width="640" height="390" fill="#f5f8fc" rx="16"/>
+  <g fill="none" stroke="#28649a" stroke-width="3">
+    <path d="M320 76v22"/><path d="M320 149v22" marker-end="url(#arrow)"/>
+    <path d="M320 225v25" marker-end="url(#arrow)" marker-start="url(#arrow)"/><path d="M320 305v22" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+  </g>
+  <g text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" fill="#24384e">
+    <rect x="117" y="25" width="406" height="50" rx="8" fill="white" stroke="#9eb7ce"/><text x="320" y="58">Prompts + worked solutions</text>
+    <rect x="117" y="99" width="406" height="50" rx="8" fill="white" stroke="#9eb7ce"/><text x="320" y="132">Generate the bank</text>
+    <rect x="117" y="173" width="406" height="50" rx="8" fill="#dcecf9" stroke="#9eb7ce"/><text x="320" y="206">Training in the browser</text>
+    <rect x="117" y="251" width="406" height="50" rx="8" fill="white" stroke="#9eb7ce"/><text x="320" y="284">Local learning records</text>
+    <rect x="117" y="328" width="406" height="50" rx="8" fill="white" stroke="#9eb7ce"/><text x="320" y="361">JSON backup</text>
+  </g>
+</svg>
