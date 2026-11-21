@@ -19,4 +19,4 @@
 
 For English-speaking contributors: edit the bank source and the matching Markdown solution, regenerate figures if needed, rebuild the bank, then lint, test and build. Original textbook materials are kept in a local study archive. The exercise prompts are paraphrased and the illustrations are redrawn.
 
-应用与学习流程以 [MechanicsDrill 的 e2d446c 提交](https://github.com/yuxuan6426/MechanicsDrill/tree/e2d446c64e033be8f71ca45afb694858d68bc0fb) 为基线，保留上游许可署名。
+应用与学习流程以 [MechanicsDrill 的 e2d446c 提交](https://github.com/yuxuan6426/MechanicsDrill/tree/0f70012ae46b26b93cebc6cb4ea82fcef64ece64) 为基线，保留上游许可署名。
